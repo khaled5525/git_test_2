@@ -1,0 +1,10 @@
+.c1{display: flex;
+}
+.box{width: 100px;
+    height: 100;
+    border: 10px black;
+}
+.red{
+    background-color: red;
+}
+.black{background-color: black;}
